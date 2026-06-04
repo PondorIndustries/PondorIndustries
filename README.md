@@ -1,12 +1,7 @@
 # Hi, I'm Pondor 
-**[Your tagline here — one line that summarizes your mission/skills.]**
+**Hobbyist developer with a thing for open source and too much coffee. I build random projects mostly out of curiosity — if something interests me, I'll probably try to code it. Always exploring, never quite finished.**
 
 ---
-
-<!-- ============================= -->
-<!--             ABOUT ME          -->
-<!-- ============================= -->
-
 ## About Me  
 [Write 3–5 sentences about yourself. Who you are, what you build, and what excites you.  
 Keep it personable and approachable, but professional.]  
