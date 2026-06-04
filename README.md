@@ -1,22 +1,6 @@
-<!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=pondor&fontColor=8b0000&fontSize=80&fontAlign=50)
 
-<!-- Typing subtitle -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=8b0000&center=true&vCenter=true&lines=Coffee+enjoyer+☕;Open+source+enthusiast;Random+code+lover)](https://git.io/typing-svg)
-
----
-
-<!-- About -->
-```python
-class pondor:
-    def __init__(self):
-        self.alias       = "pondor"
-        self.code        = ["C", "C#", "C++", "Lua", "Java", "JavaScript", "Ruby", "TypeScript"]
-        self.tools       = ["Bootstrap", "Next.js", "Node.js", ".NET", "HTML"]
-        self.os          = ["Windows"]
-        self.interests   = ["open_source", "hobby_projects", "random_tinkering"]
-        self.motto       = "// Coffee first, code second."
-```
 
 ---
 
@@ -36,12 +20,10 @@ class pondor:
 
 ---
 
-<!-- Stats -->
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pondor&theme=dark&background=000000&ring=8b0000&fire=8b0000&currStreakLabel=8b0000" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Pondor&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Pondor&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pondor&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
