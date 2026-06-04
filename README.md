@@ -7,7 +7,15 @@
 </p>
 
 ---
+### 📊 GitHub Stats
 
+<p align="center">
+<img src="https://github-readme-stats.shion.dev/api?username=Pondor&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+<img src="https://streak-stats.demolab.com/?user=Pondor&theme=shadow_red&hide_border=false" /><br/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pondor&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+---
 ### 🛠 Stack
 
 <p align="center">
@@ -22,15 +30,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=Pondor&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-<img src="https://streak-stats.demolab.com/?user=Pondor&theme=shadow_red&hide_border=false" /><br/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pondor&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
----
 
 <p align="center">
   <i>"The quieter you become, the more you can hear."</i>
