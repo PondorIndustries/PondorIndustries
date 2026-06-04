@@ -1,5 +1,4 @@
-# Hi, I'm Pondor 
-**![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)**
+**![header](https://capsule-render.vercel.app/api?type=transparent)**
 ---
 ## About Me  
 [Write 3–5 sentences about yourself. Who you are, what you build, and what excites you.  
