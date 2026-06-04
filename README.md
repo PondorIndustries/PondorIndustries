@@ -1,11 +1,51 @@
+<!-- Header -->
+![header](https://capsule-render.vercel.app/api?type=transparent&text=pondor&fontColor=8b0000&fontSize=80&fontAlign=50)
 
+<!-- Typing subtitle -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=8b0000&center=true&vCenter=true&lines=Coffee+enjoyer+☕;Open+source+enthusiast;Random+code+lover)](https://git.io/typing-svg)
 
-# 💫 About Me:
-Hobbyist developer with a thing for open source and too much coffee. I build random projects mostly out of curiosity, if something interests me, I'll probably try to code it. Always exploring, never quite finished.
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Pondor&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Pondor&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pondor&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- About -->
+```python
+class pondor:
+    def __init__(self):
+        self.alias       = "pondor"
+        self.code        = ["C", "C#", "C++", "Lua", "Java", "JavaScript", "Ruby", "TypeScript"]
+        self.tools       = ["Bootstrap", "Next.js", "Node.js", ".NET", "HTML"]
+        self.os          = ["Windows"]
+        self.interests   = ["open_source", "hobby_projects", "random_tinkering"]
+        self.motto       = "// Coffee first, code second."
+```
+
+---
+
+<!-- Skills -->
+### 🛠 Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,lua,java,js,ruby,ts,html,dotnet,bootstrap,nextjs,nodejs,windows,powershell&theme=dark&perLine=8" />
+  </a>
+</p>
+
+<!-- OpenGL (not in skill-icons) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl" />
+</p>
+
+---
+
+<!-- Stats -->
+### 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pondor&theme=dark&background=000000&ring=8b0000&fire=8b0000&currStreakLabel=8b0000" />
+</p>
+
+---
+
+<!-- Footer quote -->
+<p align="center">
+  <i>"The quieter you become, the more you can hear."</i>
+</p>
