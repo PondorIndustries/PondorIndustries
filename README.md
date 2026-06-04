@@ -1,4 +1,4 @@
-**![header](https://capsule-render.vercel.app/api?type=transparent&text=Pondor&fontColor=ff0000&fontSize=80)**
+**![header](https://capsule-render.vercel.app/api?type=transparent&text=pondor&fontColor=8b0000&fontSize=80&fontAlign=50)**
 ---
 ## About Me  
 [Write 3–5 sentences about yourself. Who you are, what you build, and what excites you.  
