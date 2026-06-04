@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=pondor&fontColor=8b0000&fontSize=80&fontAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=8b0000&center=true&vCenter=true&lines=Coffee+enjoyer+☕;Open+source+enthusiast;Random+code+lover)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=ffffff&center=true&vCenter=true&width=500&lines=Coffee+enjoyer+☕;Open+source+enthusiast;Random+code+lover)](https://git.io/typing-svg)
 ---
 
 
