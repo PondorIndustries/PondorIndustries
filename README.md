@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&text=pondor&fontColor=8b0000&fontSize=80&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Pondor&fontColor=8b0000&fontSize=80&fontAlign=50)
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=ffffff&center=true&vCenter=true&width=500&lines=Coffee+enjoyer;Open+source+enthusiast;Random+code+lover" />
 </p>
