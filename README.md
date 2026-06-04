@@ -25,5 +25,5 @@
 
 
 <p align="center">
-  <i>"You’re different from the others. I’ve never met someone who truly gets it like you do."</i>
+  <i>You’re different from the others. I’ve never met someone who truly gets it like you do.</i>
 </p>
