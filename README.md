@@ -1,10 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=pondor&fontColor=8b0000&fontSize=80&fontAlign=50)
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=ffffff&center=true&vCenter=true&width=500&lines=Coffee+enjoyer;Open+source+enthusiast;Random+code+lover" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=ffffff&center=true&vCenter=true&width=700&lines=Coffee+enjoyer;Open+source+enthusiast;Random+code+lover" />
 </p>
----
-
 
 ![](https://github-readme-stats.shion.dev/api?username=Pondor&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Pondor&theme=shadow_red&hide_border=false)<br/>
