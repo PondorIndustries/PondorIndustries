@@ -1,12 +1,14 @@
+<p align="center">
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=pondor&fontColor=8b0000&fontSize=80&fontAlign=50)
+</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=ffffff&center=false&vCenter=true&width=700&lines=Coffee+enjoyer;Open+source+enthusiast;Random+code+lover" />
-
-![](https://github-readme-stats.shion.dev/api?username=Pondor&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Pondor&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pondor&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=ffffff&center=true&vCenter=true&width=500&lines=Coffee+enjoyer;Open+source+enthusiast;Random+code+lover" />
+</p>
 
 ---
+
+### 🛠 Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -14,7 +16,22 @@
   </a>
 </p>
 
-<!-- Footer quote -->
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.shion.dev/api?username=Pondor&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+<img src="https://streak-stats.demolab.com/?user=Pondor&theme=shadow_red&hide_border=false" /><br/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pondor&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+---
+
 <p align="center">
   <i>"The quieter you become, the more you can hear."</i>
 </p>
