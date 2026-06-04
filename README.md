@@ -17,7 +17,7 @@
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,lua,java,js,ruby,ts,html,dotnet,bootstrap,nextjs,nodejs,windows,powershell&theme=dark&perLine=8" />
   </a>
 </p>
----
+
 <!-- Footer quote -->
 <p align="center">
   <i>"The quieter you become, the more you can hear."</i>
