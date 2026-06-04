@@ -1,6 +1,5 @@
 # Hi, I'm Pondor 
-**Hobbyist developer with a thing for open source and too much coffee. I build random projects mostly out of curiosity — if something interests me, I'll probably try to code it. Always exploring, never quite finished.**
-
+**![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)**
 ---
 ## About Me  
 [Write 3–5 sentences about yourself. Who you are, what you build, and what excites you.  
