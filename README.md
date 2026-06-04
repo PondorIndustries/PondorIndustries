@@ -25,5 +25,5 @@
 
 
 <p align="center">
-  <i>"The quieter you become, the more you can hear."</i>
+  <i>"You’re different from the others. I’ve never met someone who truly gets it like you do."</i>
 </p>
