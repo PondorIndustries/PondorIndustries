@@ -1,87 +1,11 @@
-**![header](https://capsule-render.vercel.app/api?type=rect&color=111111&text=pondor&fontColor=8b0000&fontSize=80&fontAlign=50)**
----
-## About Me  
-[Write 3–5 sentences about yourself. Who you are, what you build, and what excites you.  
-Keep it personable and approachable, but professional.]  
-
-🎥 Optional: Add a link to your YouTube channel or other platform.  
-
----
-
-<!-- ============================= -->
-<!--         TECH & TOOLS          -->
-<!-- ============================= -->
-
-## Tech & Tools  
-
-<p align="center">
-  <!-- Replace or remove badges as needed -->
-  <img src="https://img.shields.io/badge/Skill1-Color?logo=tool&logoColor=white" />
-  <img src="https://img.shields.io/badge/Skill2-Color?logo=tool&logoColor=white" />
-  <img src="https://img.shields.io/badge/Skill3-Color?logo=tool&logoColor=white" />
-</p>
-
----
-
-<!-- ============================= -->
-<!--           MY PROJECTS         -->
-<!-- ============================= -->
-
-## My Projects  
-
-<p align="center">
-  <!-- Replace GIF with your own or static screenshots -->
-  <img src="INSERT_PROJECT1_GIF_URL" width="150" alt="Project One Demo"/>
-</p>
-
----
-
-### [Project One](INSERT_PROJECT_ONE_LINK)  
-_[One-line description of the project.]_  
-
- Features:  
-- [Feature 1]  
-- [Feature 2]  
-- [Feature 3]  
-
-🔗 [Live Link or Store Link](INSERT_LINK_HERE)  
 
 
----
+# 💫 About Me:
+Hobbyist developer with a thing for open source and too much coffee. I build random projects mostly out of curiosity, if something interests me, I'll probably try to code it. Always exploring, never quite finished.
 
-<!-- ============================= -->
-<!--           WIP PROJECTS        -->
-<!-- ============================= -->
-
-## Work in Progress  
-
-- **[Project Name]** 🎯  
-  _[Short one-line description of the WIP project.]_  
-
-  Features in development:  
-  - [Planned Feature 1]  
-  - [Planned Feature 2]  
-  - [Planned Feature 3]  
-
----
-
-<!-- ============================= -->
-<!--          CONNECT WITH ME      -->
-<!-- ============================= -->
-
-## Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](INSERT_LINKEDIN_URL)  
-[![Website](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](INSERT_PERSONAL_SITE_URL)  
-
----
-
-<!-- ============================= -->
-<!--           GITHUB STATS        -->
-<!-- ============================= -->
-
-## GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Pondor&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Pondor&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pondor&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
