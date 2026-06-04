@@ -1,10 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=pondor&fontColor=8b0000&fontSize=80&fontAlign=50)
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=ffffff&center=true&vCenter=true&lines=Coffee+enjoyer+☕;Open+source+enthusiast;Random+code+lover" />
-  </a>
-</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=8b0000&center=true&vCenter=true&lines=Coffee+enjoyer+☕;Open+source+enthusiast;Random+code+lover)](https://git.io/typing-svg)
 ---
+
 
 ![](https://github-readme-stats.shion.dev/api?username=Pondor&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Pondor&theme=shadow_red&hide_border=false)<br/>
