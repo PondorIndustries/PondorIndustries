@@ -4,7 +4,6 @@
 </p>
 
 ---
-### 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.shion.dev/api?username=Pondor&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false" /><br/>
@@ -13,7 +12,7 @@
 </p>
 
 ---
-### 🛠 Stack
+
 
 <p align="center">
   <a href="https://skillicons.dev">
